@@ -12,6 +12,7 @@
       marketCap: "$1,861,618,902,186",
       volume24h: "43,874,950,947",
       circulatingSupply: "19.85M BTC",
+      graph:"https://www.investopedia.com/thmb/0stEWaKaGR6_5sm1KNUCG8F7MvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ES1_2023-12-21_08-23-37-25aa1e048b734957ac315a852aabe047.png"
     },
     {
       rank: 2,
@@ -25,6 +26,7 @@
       marketCap: "$217,581,279,327",
       volume24h: "23,547,469,307",
       circulatingSupply: "120.71M ETH",
+      graph:"https://www.investopedia.com/thmb/0stEWaKaGR6_5sm1KNUCG8F7MvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ES1_2023-12-21_08-23-37-25aa1e048b734957ac315a852aabe047.png"
     },
     {
       rank: 3,
@@ -38,6 +40,7 @@
       marketCap: "$145,320,022,085",
       volume24h: "92,288,882,007",
       circulatingSupply: "145.27B USDT",
+      graph:"https://www.investopedia.com/thmb/0stEWaKaGR6_5sm1KNUCG8F7MvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ES1_2023-12-21_08-23-37-25aa1e048b734957ac315a852aabe047.png"
     },
     {
       rank: 4,
@@ -51,6 +54,7 @@
       marketCap: "$130,073,814,966",
       volume24h: "5,131,481,491",
       circulatingSupply: "58.39B XRP",
+      graph:"https://www.investopedia.com/thmb/0stEWaKaGR6_5sm1KNUCG8F7MvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ES1_2023-12-21_08-23-37-25aa1e048b734957ac315a852aabe047.png"
     },
     {
       rank: 5,
@@ -64,6 +68,7 @@
       marketCap: "$85,471,956,947",
       volume24h: "1,874,281,784",
       circulatingSupply: "140.89M BNB",
+      graph:"https://www.investopedia.com/thmb/0stEWaKaGR6_5sm1KNUCG8F7MvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ES1_2023-12-21_08-23-37-25aa1e048b734957ac315a852aabe047.png"
     },
     {
       rank: 6,
@@ -77,5 +82,6 @@
       marketCap: "$78,381,958,631",
       volume24h: "4,881,674,486",
       circulatingSupply: "517.31M SOL",
+      graph:"https://www.investopedia.com/thmb/0stEWaKaGR6_5sm1KNUCG8F7MvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ES1_2023-12-21_08-23-37-25aa1e048b734957ac315a852aabe047.png"
     },
   ];

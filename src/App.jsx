@@ -37,6 +37,7 @@ const App = () => {
             <th className="py-3 px-6 text-right">Market Cap</th>
             <th className="py-3 px-6 text-right">Volume(24h)</th>
             <th className="py-3 px-6 text-right">Circulating Supply</th>
+            <th className="py-3 px-6 text-right">Last 7 days</th>
           </tr>
         </thead>
         <tbody className="text-gray-700 text-sm">
@@ -54,6 +55,9 @@ const App = () => {
               <td className="py-3 px-6 text-right">{item.marketCap}</td>
               <td className="py-3 px-6 text-right">${item.volume24h}</td>
               <td className="py-3 px-6 text-right">{item.circulatingSupply}</td>
+              <td className="py-2 px-7 text-right">
+                <img className="h-20 w-32" src={item.graph} alt="graph" />
+              </td>
             </tr>
           ))}
         </tbody>
