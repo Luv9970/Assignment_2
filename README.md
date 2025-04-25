@@ -41,8 +41,7 @@ A responsive React + Redux Toolkit app that simulates real-time crypto price tra
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/crypto-price-tracker.git
-cd crypto-price-tracker
+git clone https://github.com/Luv9970/Assignment_2.git
 
 npm install
 # or
