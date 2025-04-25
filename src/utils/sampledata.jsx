@@ -2,6 +2,7 @@
   export const sampledata = [
     {
       rank: 1,
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSEEUJQPS_ARZeaL2PTiA5K0qDjwFzMoVQA&s",
       name: "Bitcoin",
       symbol: "BTC",
       price: "93,759.48",
@@ -14,6 +15,7 @@
     },
     {
       rank: 2,
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJDn0ojTITvcdAzMsfBMJaZC4STaDHzduleQ&s",
       name: "Ethereum",
       symbol: "ETH",
       price: "1,802.46",
@@ -26,6 +28,7 @@
     },
     {
       rank: 3,
+      image:"https://www.cryptologos.cc/logos/tether-usdt-logo.png?v=040",
       name: "Tether",
       symbol: "USDT",
       price: "1.00",
@@ -38,6 +41,7 @@
     },
     {
       rank: 4,
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEx8l1lrrq1h7ap3moMYOl-dmeNzfi3HTOw&s",
       name: "XRP",
       symbol: "XRP",
       price: "2.22",
@@ -50,6 +54,7 @@
     },
     {
       rank: 5,
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9cUvoCvmCXO4pNHvnREHBCKW30U-BVxKfg&s",
       name: "BNB",
       symbol: "BNB",
       price: "606.65",
@@ -62,6 +67,7 @@
     },
     {
       rank: 6,
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIsJL3zRgUrkD3yE3lD7LK0wZWSiRyY1GVg&s",
       name: "Solana",
       symbol: "SOL",
       price: "151.51",
